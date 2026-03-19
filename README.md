@@ -4,9 +4,12 @@ A completely customizable, organic mesh gradient package for Flutter that allows
 
 > ⚠️ **Warning:** The animated effect evaluates shaders and paths continuously at 60fps. Running this constantly on screen will consume a significant amount of battery. Consider pausing the animation (`animated: false`) when the screen is idle or not actively in focus.
 
+https://github.com/user-attachments/assets/39d904ae-2b01-4741-b796-7ffb596786d4
+
 ## Features
 
 - **Dynamic Motion**: Offers different fluid animation types such as `calm`, `waves`, `pulse`, `vortex`, `liquid`, `cloudy`, and more.
+
 - **Vibrant Themes**: Comes packed with hand-picked gradient palettes (`focus`, `energy`, `midnight`, `forest`, `sunset`, `ocean`, `passion`, etc.). 
 - **Optimized & Controllable**: Includes customizable Gaussian blur values, static snapshotting, scale transformations, and full animation controls. 
 
