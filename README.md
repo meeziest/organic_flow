@@ -2,9 +2,9 @@
 
 A completely customizable, organic mesh gradient package for Flutter that allows you to easily generate breathtaking, fluid background animations.
 
-> ⚠️ **Warning:** The animated effect evaluates shaders and paths continuously at 60fps. Running this constantly on screen will consume a significant amount of battery. Consider pausing the animation (`animated: false`) when the screen is idle or not actively in focus.
+https://github.com/user-attachments/assets/90c3a33e-cc40-44d3-b594-aeaf4f9676bc
 
-https://github.com/user-attachments/assets/39d904ae-2b01-4741-b796-7ffb596786d4
+> ⚠️ **Warning:** The animated effect evaluates shaders and paths continuously at 60fps. Running this constantly on screen will consume a significant amount of battery. Consider pausing the animation (`animated: false`) when the screen is idle or not actively in focus.
 
 ## Features
 
